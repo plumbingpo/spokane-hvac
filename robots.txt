@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spokanehvacco.com/sitemap.xml
